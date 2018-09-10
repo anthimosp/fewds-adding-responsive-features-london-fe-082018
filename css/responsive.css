@@ -1,8 +1,14 @@
 @media (max-width: 1100px) {
   .wrapper { width: 90%;}
   #social absolute {
-    width:auto 
-    top 82px 
-    right 4px
+    width:auto;
+    top: 82px;
+    right: 4px;
+  }
+}
+
+@media (max-width: 900px) {
+  .body {
+    font: 85%;
   }
 }
