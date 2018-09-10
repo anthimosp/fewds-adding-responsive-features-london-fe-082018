@@ -10,7 +10,10 @@
 
 @media (max-width: 900px) {
   .body {font: 85%;}
-  
+  #logo h1 {
+    height: 35px;
+    width: 35px;
+  }
 }
 
 @media (max-width: 750px) {
