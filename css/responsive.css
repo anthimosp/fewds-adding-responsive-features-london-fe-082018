@@ -9,10 +9,7 @@
 }
 
 @media (max-width: 900px) {
-  .body {
-    font: 85%;
-    
-  }
+  .body {font: 85%;}
 }
 
 @media (max-width: 750px) {
